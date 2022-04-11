@@ -18,7 +18,7 @@
     /* padding: 2em 1em; */
   }
 .section{
-    padding: 4rem 0;
+    padding: 3rem 0;
   }
 .bg-pink{
     background-color: #EE82EE;
@@ -87,7 +87,7 @@
 }
 .bg-black{
     background-color: black;
-    
+    flex-direction: row;
 }
 .square-footer{
     width: 100%;
@@ -100,13 +100,13 @@
     border:1px dashed red
 }
 .square-1{
-    background-color: #542358;
+    background-color: #F08080;
     
 }
 .container-log-footer{
-    max-width: 1097px;
+    max-width: 960px;
     min-width: 400px;
-    min-height: 100px;
+    min-height: 70px;
     margin: 0 auto;
     background: aqua;
     margin-top: 20px;
