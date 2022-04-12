@@ -49,13 +49,13 @@
 .col{
     background-color: #DAA520;
     display: inline-block;
-    width: 100px;
-    height: 30px;
+    min-width: 100px;
+    min-height: 30px;
     border: 1px solid black;
 
 }
 .col-2{
-    width: 960px;
+    min-width: 960px;
     border: 1px dashed red;
     text-align: center;
 }
